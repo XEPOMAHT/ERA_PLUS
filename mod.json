@@ -1,17 +1,14 @@
 {
 	"caption": {
-		"Cn_Simp": "",
 		"en_US": "ERA PLUS - Russian only",
 		"ru_RU": "ЭРА ПЛЮС"
 	},
 	"description": {
 		"full": {
-			"Cn_Simp": "",
 			"en_US": "readme.md",
 			"ru_RU": "readme_rus.md"
 		},
 		"short": {
-			"Cn_Simp": "",
 			"en_US": "Small mod, introducing new heroes, artifacts, creatures, scripted options, graphics and much more.",
 			"ru_RU": "Небольшой мод, добавляющий новых героев, артефактов, существ, заскриптованные опции, графику и многое другое."
 		}
@@ -20,15 +17,13 @@
 	"homepage": "http://wforum.heroes35.net/",
 	"icon": {
 		"file": "wog.ico",
-		"index": 2
+		"index": 0
 	},
 	"mod_version": "3.8.0",
 	"priority": -1,
 	"compatibility": {
 		"class": "all",
-		"entries": {
-			"Era Erm Framework": true
-		}
+		"entries": {}
 	},
 	"platform": "era",
 	"info_version": "3.8.0",
