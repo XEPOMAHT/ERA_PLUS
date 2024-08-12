@@ -1,0 +1,18 @@
+													
+													
+ПКМ_гарнизон	#	99	0	0	292	124	100	-1	GARRIPOP.pcx	-1			
+	T	8	20	27	260	16		smalfont2.fnt	1	0	1	8	
+	D	10	22	58	32	32	CPRSMALL.def	0	16				
+	D	11	58	58	32	32	CPRSMALL.def	0	16				
+	D	12	94	58	32	32	CPRSMALL.def	0	16				
+	D	13	130	58	32	32	CPRSMALL.def	0	16				
+	D	14	166	58	32	32	CPRSMALL.def	0	16				
+	D	15	202	58	32	32	CPRSMALL.def	0	16				
+	D	16	238	58	32	32	CPRSMALL.def	0	16				
+	T	20	21	92	32	15		tiny.fnt	1	0	1	8	
+	T	21	57	92	32	15		tiny.fnt	1	0	1	8	
+	T	22	93	92	32	15		tiny.fnt	1	0	1	8	
+	T	23	129	92	32	15		tiny.fnt	1	0	1	8	
+	T	24	165	92	32	15		tiny.fnt	1	0	1	8	
+	T	25	201	92	32	15		tiny.fnt	1	0	1	8	
+	T	26	237	92	32	15		tiny.fnt	1	0	1	8	

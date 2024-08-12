@@ -1,0 +1,41 @@
+													
+													
+DwellingInfo: three types availabed	#	98	-1	-1	483	374	100	0					
+	D	666	0	0	64	64	dialgbox.def	0	16				
+	P	101	0	50	161	324	CRTOINFO.pcx	2048					
+	P	102	161	50	161	324	CRTOINFO.pcx	2048					
+	P	103	322	50	161	324	CRTOINFO.pcx	2048					
+	P	201	30	94	100	130	mopsky.pcx	2048					
+	P	202	191	94	100	130	mopsky.pcx	2048					
+	P	203	352	94	100	130	mopsky.pcx	2048					
+	D	6666	30	94	100	130	cdrfly.def	100000	18				
+	D	6667	191	94	100	130	cdrfly.def	100000	18				
+	D	6668	352	94	100	130	cdrfly.def	100000	18				
+	T	301	0	72	161	20		msmlfont.fnt	1	0	1	8	
+	T	302	161	72	161	20		msmlfont.fnt	1	0	1	8	
+	T	303	322	72	161	20		msmlfont.fnt	1	0	1	8	
+	T	1000	0	12	483	40		mepfont.fnt	1	0	1	8	
+	T	1	0	269	161	20	Стоимость:	msmlfont.fnt	1	0	1	8	
+	T	2	161	269	161	20	Стоимость:	msmlfont.fnt	1	0	1	8	
+	T	3	322	269	161	20	Стоимость:	msmlfont.fnt	1	0	1	8	
+	T	8	0	232	160	20		msmlfont.fnt	1	0	1	8	
+	T	9	161	232	160	20		msmlfont.fnt	1	0	1	8	
+	T	10	322	232	160	20		msmlfont.fnt	1	0	1	8	
+	D	12	64	288	32	32	resource.def	0	16				
+	D	13	225	288	32	32	resource.def	0	16				
+	D	14	386	288	32	32	resource.def	0	16				
+	D	16	40	288	32	32	resource.def	0	16				
+	D	17	201	288	32	32	resource.def	0	16				
+	D	18	362	288	32	32	resource.def	0	16				
+	D	20	90	288	32	32	resource.def	0	16				
+	D	21	251	288	32	32	resource.def	0	16				
+	D	22	412	288	32	32	resource.def	0	16				
+	T	24	0	323	161	20		msmlfont.fnt	1	0	1	8	
+	T	25	161	323	161	20		msmlfont.fnt	1	0	1	8	
+	T	26	322	323	161	20		msmlfont.fnt	1	0	1	8	
+	T	28	36	323	40	20		msmlfont.fnt	1	0	1	8	
+	T	29	197	323	40	20		msmlfont.fnt	1	0	1	8	
+	T	30	358	323	40	20		msmlfont.fnt	1	0	1	8	
+	T	32	86	323	40	20		msmlfont.fnt	1	0	1	8	
+	T	33	247	323	40	20		msmlfont.fnt	1	0	1	8	
+	T	34	408	323	40	20		msmlfont.fnt	1	0	1	8	
