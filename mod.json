@@ -16,7 +16,7 @@
 	"author": "XEPOMAHT",
 	"homepage": "http://wforum.heroes35.net/",
 	"icon": {
-		"file": "wog.ico",
+		"file": "wog.png",
 		"index": 0
 	},
 	"mod_version": "3.8.0",
