@@ -1,8 +1,8 @@
+> [!IMPORTANT]
+> ## Russian language supported only!
+
 ++++++++++++++
 ERA PLUS 0.3.6
-
-> [!IMPORTANT]
-> Russian language supported only!
 
 ++++++++++++++
 * 95 новых артефактов (общее количество = 255)
