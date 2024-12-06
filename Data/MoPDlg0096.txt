@@ -1,0 +1,45 @@
+													
+													
+стартовое_инфо_героя	#	96	-1	-1	477	482	100	-1	HeroInfo.pcx	-1	
+	T	99	82	22	214	30		bigfont.fnt	2	0	1	8	
+	T	98	82	52	214	30		medfont.fnt	1	0	1	8	
+	T	97	18	89	70	18	Атака	smalfont.fnt	1	0	1	8	
+	T	96	88	89	70	18	Защита	smalfont.fnt	1	0	1	8	
+	T	95	158	89	70	18	Маг. сила	smalfont.fnt	1	0	1	8	
+	T	94	228	89	70	18	Знание	smalfont.fnt	1	0	1	8	
+	D	93	32	111	42	42	pskil42.def	0	16	
+	D	92	102	111	42	42	pskil42.def	1	16	
+	D	91	172	111	42	42	pskil42.def	2	16	
+	D	90	242	111	42	42	pskil42.def	5	16	
+	T	89	31	156	45	18		smalfont.fnt	1	0	1	8	
+	T	88	101	156	45	18		smalfont.fnt	1	0	1	8	
+	T	87	171	156	45	18		smalfont.fnt	1	0	1	8	
+	T	86	241	156	45	18		smalfont.fnt	1	0	1	8	
+	T	85	21	184	275	130		smalfont.fnt	1	0	0	8	
+	D	84	18	325	44	44	UN44.def	0	16	
+	D	83	322	193	32	32	CPRSMALL.def	0	16	
+	T	82	317	234	43	16		smalfont.fnt	1	0	1	8	
+	D	81	371	193	32	32	CPRSMALL.def	0	16	
+	T	80	366	234	43	16		smalfont.fnt	1	0	1	8	
+	D	79	420	193	32	32	CPRSMALL.def	0	16	
+	T	78	416	234	43	16		smalfont.fnt	1	0	1	8	
+	D	77	320	289	44	44	artifact.def	0	16	
+	T	76	372	290	88	43		smalfont.fnt	1	0	4	8	
+	D	75	318	53	44	44	Secskill.def	0	16	
+	T	74	369	57	88	22		smalfont.fnt	1	0	1	8	
+	T	73	369	77	88	22		smalfont.fnt	1	0	1	8	
+	D	72	318	104	44	44	Secskill.def	0	16	
+	T	71	369	108	88	22		smalfont.fnt	1	0	1	8	
+	T	70	369	128	88	22		smalfont.fnt	1	0	1	8	
+	T	69	72	326	226	21	{Специализация}	smalfont.fnt	1	0	0	8	
+	T	68	72	347	226	21		smalfont.fnt	1	0	0	8	
+	T	67	22	378	274	86		smalfont.fnt	1	0	0	8	
+	T	66	324	21	130	24	Вторичные навыки:	smalfont.fnt	2	0	4	8	
+	T	65	324	157	130	24	Стартовая армия:	smalfont.fnt	2	0	4	8	
+	T	64	324	257	130	24	Стартовый артефакт:	smalfont.fnt	2	0	4	8	
+	T	63	324	342	130	24	Магический артефакт:	smalfont.fnt	2	0	4	8	
+	D	62	320	375	44	44	artifact.def	0	16	
+	T	61	372	375	85	43		smalfont.fnt	1	0	4	8	
+	D	60	318	425	48	36	SpellInt.def	0	16	
+	T	59	372	426	86	35		smalfont.fnt	1	0	4	8	
+	P	58	19	19	58	64	ZZL0.pcx	2048	

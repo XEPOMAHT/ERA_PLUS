@@ -1,0 +1,315 @@
+Credits
+"{АВТОР ПЛАТФОРМЫ ЭРА:}
+Berserker
+
+{АВТОР МОДА ЭРА ПЛЮС:}
+XEPOMAHT007
+
+{АВТОРЫ ПЛАГИНОВ, ВХОДЯЩИХ В СОСТАВ ЭРА:}
+daemon_n
+feanor
+gamecreator
+igrik
+MoP
+myoffice91
+
+{АВТОРЫ ДОПОЛНЕНИЯ
+""ВО ИМЯ БОГОВ"":}
+WoG Team aka
+New Life of Heroes
+
+{АВТОРЫ ДОПОЛНЕНИЯ
+""РОГ БЕЗДНЫ"":}
+HotA Crew
+
+
+{СТОРОНА}
+{ПРАВООБЛАДАТЕЛЯ}
+
+{Авторские права:}
+Ubisoft Entertainment
+The 3DO Company
+New World Computing
+
+
+{РАЗРАБОТЧИКИ}
+{ОРИГИНАЛЬНОЙ} {ИГРЫ}
+
+{Автор игры:}
+Jon Van Caneghem
+
+
+{Исполнительный продюсер:}
+Mark Caldwell
+
+
+{Продюсер:}
+Jeff Blattner
+
+
+{Директор:}
+David Mullich
+
+
+{Помощник Директора:}
+Christian Vanover
+
+
+{Дизайнеры:}
+Jennifer Bullard
+Gregory Fulton
+Jon Van Caneghem
+
+
+{Ведущие программисты:}
+John Bolton
+David Richey
+
+
+{Программисты:}
+Mark Caldwell
+John Krause
+Jeff Leggett
+George Ruof
+Gus Smedstad
+
+
+{Ведущие художники:}
+Joseph McGuffin
+Phelan Sykes
+
+
+{Художники:}
+George Almond
+Jeff Bigman
+Fernando Castillo
+Rebecca Christel
+Brian DeMetz
+John E. Gibson IV
+Louis Henderson
+Edward Hudson
+Tracy Iwata
+Steve Jasper
+Brian Kemper
+April Lee
+Bonita Long-Hemsath
+Adam McCarthy
+Kurt McKeever
+Nowa Morisaku
+Kenneth Thomson, Jr.
+Tony Rizo
+Bill Stoneham
+Julia Ulano
+Steve Wasaff
+Scott White
+Charles Zilm
+
+
+{Координатор:}
+Jack Russell
+
+
+{Писатель:}
+Terry Ray
+
+
+{Дизайнеры уровней:}
+Benjamin Bent
+Dave Botan
+Ryan Den
+Walter Johnson
+Marcus Pregent
+Christian Vanover
+Lisa Whitman
+Mike Wolf
+
+
+{Звукорежиссер:}
+Rob King
+
+
+{Музыкальные темы Городов:}
+Paul Romero
+
+
+{Музыка:}
+Paul Romero
+Rob King
+Steve Baca
+
+
+{Авторы музыки:}
+Rob King
+Steve Baca
+Chuck Russom
+
+
+{Запись голосов:}
+Rob King
+Green Street Studios
+South Pasadena, Ca.
+
+
+{Озвучка:}
+Catherine Battistone
+Aric Devone
+Mari Devon
+Richard Epcar
+Danny Fehsenfeld
+Lex Lang
+Wendee Lee
+Laird Macintosh
+Sy Prescott
+Mike Sorich
+Dan Woren
+
+
+{Ведущий тестер:}
+Karl Drown
+
+
+{Бета-тестеры:}
+Jesse Anacleto
+Mary Ellen Babson
+Devin Chapman
+William Choulos
+John Cloud
+Gavan Cook
+Karl Fischer
+Ernie Gallardo
+Benjamin Goldhammer
+Rich Holmes
+Yoshiyuki Maeda
+Lance Page
+Bryce Verdier
+Eric Williamson
+Sean Wyman
+Thomas Zeliff
+
+
+{Особые благодарности:}
+Cyberlore Studios
+Hypnotix
+Equinoxe
+Rad Game Tools
+Sonic Foundry
+Sound Forge
+Soundscape
+Riki Corredera
+John Machin
+Scott McDaniel
+Michele Mitchel
+John Slowsky
+
+
+{Веб-мастер:}
+Joshua “Guthwulf” Milligan
+
+
+{Веб-дизайнер:}
+Aaron Castro
+
+
+{Веб-программист:}
+Robert Belknap
+Peter Hillier
+
+
+{Заходите к нам на:}
+www.3do.com
+
+
+{ЛОКАЛИЗАЦИЯ В РОССИИ}
+
+Локализация выполнена
+компанией MiST land по
+заказу компании Бука
+
+
+{Директоры:}
+Игорь Устинов
+Виталий Шутов
+
+
+{Лицензирование:}
+Александр Михайлов
+Владимир Миняев
+
+
+{Продюсеры проекта:}
+Владимир Миняев
+Виталий Шутов
+
+
+{Менеджер локализации:}
+Андрей Белов
+
+
+{Программисты:}
+Константин Миронович
+Петр Кабанов
+Александр Гаранин
+Александр Сорокин
+Павел Дуванов
+
+
+{Художники:}
+Санан Ушанов
+Маргарита Гурьева
+
+
+{Переводчики:}
+Юрий Ванзин
+Евгений Панкин
+Ольга Цыкалова
+Марина Чумакина
+Максим Михалев
+Алексей Дольников
+Вера Миняева
+Валентин Добрынин
+Олег Бисярин
+Виктор Дубровский
+Константин Инин
+Денис Шувалов
+Александр Климов
+Сергей Осипов
+Дмитрий Сабаров
+Максим Романов
+
+
+{Редакторы:}
+Сергей Печенкин
+Виталий Шутов
+Андрей Белов
+
+
+{Звук:}
+Студия “Крыша”
+Студия “Пифагор”
+
+
+{Коробка:}
+Санан Ушанов
+
+
+{Руководство пользователя:}
+Юлия Белова
+
+
+{Web-дизайнер:}
+Александр Пелих
+
+
+{Отдельные благодарности:}
+Татьяна Устинова
+Марина Белобородова
+ИМА – ПРЕСС
+Студия Союзмультфильм
+
+
+{Заходите к нам на:}
+www.mistgames.ru
+www.buka.com
+(Сайт компании Бука)
+
+"

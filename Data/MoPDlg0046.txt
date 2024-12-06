@@ -1,0 +1,30 @@
+													
+													
+инфо_города	#	46	-1	-1	770	330	1000	0					
+	D	127	0	0	64	64	dialgbox.def	0	16				
+	P	1000	308	22	154	92	MTBorder.pcx	2048					
+	D	126	310	24	150	75	hallcstl.def	9	16				
+	T	125	309	96	152	18		msmlfont.fnt	1	0	1	8	
+	T	1986	0	116	770	40	Основной состав обитателей	mbgfont.fnt	2	0	1	8	
+	P	999	19	142	732	138	mopblack.pcx	2048					
+	P	1	23	146	100	130	CMBkgCas.pcx	2048					
+	P	2	127	146	100	130	CMBkgCas.pcx	2048					
+	P	3	231	146	100	130	CMBkgCas.pcx	2048					
+	P	4	335	146	100	130	CMBkgCas.pcx	2048					
+	P	5	439	146	100	130	CMBkgCas.pcx	2048					
+	P	6	543	146	100	130	CMBkgCas.pcx	2048					
+	P	7	647	146	100	130	CMBkgCas.pcx	2048					
+	D	8	23	146	100	130	cdrfly.def	0	18				
+	D	9	127	146	100	130	cdrfly.def	0	18				
+	D	10	231	146	100	130	cdrfly.def	0	18				
+	D	11	335	146	100	130	cdrfly.def	0	18				
+	D	12	439	146	100	130	cdrfly.def	0	18				
+	D	13	543	146	100	130	cdrfly.def	0	18				
+	D	14	647	146	100	130	cdrfly.def	0	18				
+	T	15	19	282	108	40		mepfont.fnt	1	0	1	8	
+	T	16	123	282	108	40		mepfont.fnt	1	0	1	8	
+	T	17	227	282	108	40		mepfont.fnt	1	0	1	8	
+	T	18	331	282	108	40		mepfont.fnt	1	0	1	8	
+	T	19	435	282	108	40		mepfont.fnt	1	0	1	8	
+	T	20	539	282	108	40		mepfont.fnt	1	0	1	8	
+	T	21	643	282	108	40		mepfont.fnt	1	0	1	8	
