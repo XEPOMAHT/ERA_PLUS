@@ -19,14 +19,14 @@
 		"file": "wog.png",
 		"index": 0
 	},
-	"mod_version": "3.8.0",
+	"mod_version": "3.8.1",
 	"priority": -1,
 	"compatibility": {
 		"class": "all",
 		"entries": {}
 	},
 	"platform": "era",
-	"info_version": "3.8.0",
+	"info_version": "3.8.1",
 	"plugins": {},
 	"category": "platform"
 }
