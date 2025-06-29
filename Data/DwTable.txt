@@ -1,4 +1,4 @@
-TYPE 17 (one creature)	Type of creature	142 = frames in zlagport.def	TYPE 20 (to 4 types of creatures, use -1 in order to disable slot)	Creature №1	Creature №2	Creature №3	Creature №4	2 = frames in zlagport.def
+TYPE 17 (one creature)	Type of creature	143 = frames in zlagport.def	TYPE 20 (to 4 types of creatures, use -1 in order to disable slot)	Creature №1	Creature №2	Creature №3	Creature №4	2 = frames in zlagport.def
 Яма Василисков	106 Василиск	0	Сопряжение Стихий	112 Воздушный элементаль	114 Огненный элементаль	113 Элементаль земли	115 Элементаль воды	000
 Утес Чудищ	096 Чудище	1	Фабрика Големов	32 Каменный голем	33 Стальной голем	116 Золотой голем	117 Алмазный голем	001
 Камень Созерцателей	074 Созерцатель	-1	-1	-1	-1	-1	-1	
@@ -112,6 +112,7 @@ TYPE 17 (one creature)	Type of creature	142 = frames in zlagport.def	TYPE 20 (to
 Застава Нимф	197 Нимфа	-1	-1	-1	-1	-1	-1	
 Застава Пехотинцев	208 Пехотинец	-1	-1	-1	-1	-1	-1	
 Застава Скарабеев	232 Скарабей	-1	-1	-1	-1	-1	-1	
+Застава Копейщиков	000 Копейщик	-1	-1	-1	-1	-1	-1	
 Гвардейская Застава	126 Гвардеец	-1	-1	-1	-1	-1	-1	
 Стрельбище	128 Ветеран Орков	-1	-1	-1	-1	-1	-1	
 Развалины	159 Дух	-1	-1	-1	-1	-1	-1	
@@ -141,7 +142,6 @@ TYPE 17 (one creature)	Type of creature	142 = frames in zlagport.def	TYPE 20 (to
 Храм Анубиса	242 Слуга Анубиса	-1	-1	-1	-1	-1	-1	
 Ледяной Столб	244 Папонт	-1	-1	-1	-1	-1	-1	
 Аэропорт	270 Механический Дракон	-1	-1	-1	-1	-1	-1	
-142	-1		142	-1	-1	-1	-1	
 143	-1		143	-1	-1	-1	-1	
 144	-1		144	-1	-1	-1	-1	
 145	-1		145	-1	-1	-1	-1	
