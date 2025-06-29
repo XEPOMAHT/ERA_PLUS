@@ -64,29 +64,29 @@
 	;T	150	418	470	180	20	Нежить	msmlfont.fnt	1	0	0	8	
 	;T	151	418	490	180	20	Круговая атака	msmlfont.fnt	1	0	0	8	
 	;T	152	418	510	180	20	Расширенная стрельба	msmlfont.fnt	1	0	0	8	
-3	T	153	598	70	180	20		msmlfont.fnt	1	0	0	8	
-	T	154	598	90	180	20		msmlfont.fnt	1	0	0	8	
-	T	155	598	110	180	20		msmlfont.fnt	1	0	0	8	
-	T	156	598	130	180	20		msmlfont.fnt	1	0	0	8	
-	T	157	598	150	180	20		msmlfont.fnt	1	0	0	8	
-	T	158	598	170	180	20		msmlfont.fnt	1	0	0	8	
-	T	159	598	190	180	20		msmlfont.fnt	1	0	0	8	
-	T	160	598	210	180	20		msmlfont.fnt	1	0	0	8	
-	T	161	598	230	180	20		msmlfont.fnt	1	0	0	8	
-	T	162	598	250	180	20		msmlfont.fnt	1	0	0	8	
-	T	163	598	270	180	20		msmlfont.fnt	1	0	0	8	
-	T	164	598	290	180	20		msmlfont.fnt	1	0	0	8	
-	T	165	598	310	180	20		msmlfont.fnt	1	0	0	8	
-	T	166	598	330	180	20		msmlfont.fnt	1	0	0	8	
-	T	167	598	350	180	20		msmlfont.fnt	1	0	0	8	
-	T	168	598	370	180	20		msmlfont.fnt	1	0	0	8	
-	T	169	598	390	180	20		msmlfont.fnt	1	0	0	8
-	T	170	598	410	180	20		msmlfont.fnt	1	0	0	8
-	T	171	598	430	180	20		msmlfont.fnt	1	0	0	8	
-	T	172	598	450	180	20		msmlfont.fnt	1	0	0	8		
-	T	173	598	470	180	20		msmlfont.fnt	1	0	0	8	
-	T	174	598	490	180	20		msmlfont.fnt	1	0	0	8	
-	T	175	598	510	180	20		msmlfont.fnt	1	0	0	8	
+3	T	153	598	70	180	20		msmlfont.fnt	1	0	1	8	
+	T	154	598	90	180	20		msmlfont.fnt	1	0	1	8	
+	T	155	598	110	180	20		msmlfont.fnt	1	0	1	8	
+	T	156	598	130	180	20		msmlfont.fnt	1	0	1	8	
+	T	157	598	150	180	20		msmlfont.fnt	1	0	1	8	
+	T	158	598	170	180	20		msmlfont.fnt	1	0	1	8	
+	T	159	598	190	180	20		msmlfont.fnt	1	0	1	8	
+	T	160	598	210	180	20		msmlfont.fnt	1	0	1	8	
+	T	161	598	230	180	20		msmlfont.fnt	1	0	1	8	
+	T	162	598	250	180	20		msmlfont.fnt	1	0	1	8	
+	T	163	598	270	180	20		msmlfont.fnt	1	0	1	8	
+	T	164	598	290	180	20		msmlfont.fnt	1	0	1	8	
+	T	165	598	310	180	20		msmlfont.fnt	1	0	1	8	
+	T	166	598	330	180	20		msmlfont.fnt	1	0	1	8	
+	T	167	598	350	180	20		msmlfont.fnt	1	0	1	8	
+	T	168	598	370	180	20		msmlfont.fnt	1	0	1	8	
+	T	169	598	390	180	20		msmlfont.fnt	1	0	1	8
+	T	170	598	410	180	20		msmlfont.fnt	1	0	1	8
+	T	171	598	430	180	20		msmlfont.fnt	1	0	1	8	
+	T	172	598	450	180	20		msmlfont.fnt	1	0	1	8		
+	T	173	598	470	180	20		msmlfont.fnt	1	0	1	8	
+	T	174	598	490	180	20		msmlfont.fnt	1	0	1	8	
+	T	175	598	510	180	20		msmlfont.fnt	1	0	1	8	
 	;D	3007	622	389	20	18	smalres.def	0	16				
 	;D	3007	622	409	20	18	smalres.def	1	16				
 	;D	3007	622	429	20	18	smalres.def	2	16				
