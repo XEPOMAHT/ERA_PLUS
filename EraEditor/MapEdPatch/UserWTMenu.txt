@@ -1,0 +1,11 @@
+Title	ShortCut	Description	Command	Params	Directory(same as in command by default)
+ 
+Программы, полезные
+ при редактировании карт.
+
+
+-			-
+Герои 3 HD-мод	F4	Запустить игру с HD-модом	HD_Launcher.exe
+Справка по ERM	F5	Открыть справку по ERM	Software\erm_s\erm-help 2.81d full rus.chm
+Редактор архивов	F6	Открыть редактор игровых архивов	Software\MMArchive\MMArchive.exe
+Редактор монстров	F7	Открыть редактор монстров	Mods\ERA+\EraPlugins\MCrEdit\MCrEdit.exe

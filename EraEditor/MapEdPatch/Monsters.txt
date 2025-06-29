@@ -1,0 +1,10 @@
+Number	Town	Level(starting from 0  -1 = don't show)
+
+Standard monsters:
+145	-1	7	Catapult
+146	-1	7	Ballista
+147	-1	7	First Aid Tent
+148	-1	7	Ammo Cart
+149	-1	-1	Arrow Tower
+
+Others:  Town = -1  Level = 7  by default
