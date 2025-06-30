@@ -1,85 +1,93 @@
 > [!IMPORTANT]
-> ## Russian language supported only!
+> ## Only Russian language is supported!
 
-++++++++++++++
-ERA PLUS 0.3.6
-++++++++++++++
-* 95 новых артефактов (общее количество = 255)
-* 55 новых монстров (общее количество = 237)
-* 3 новых города (общее количество = 12)
-* 5 новых зданий для строительства в стандартных городах
-* 36 новых героя (общее количество = 192)
-* 30 новых жилищ монстров (общее количество = 130)
-* 30 новых банков монстров (общее количество = 50)
-* 2 новые почвы (общее количество = 12)
-* 4 новых накладных ландшафта, с запрограммированными на ERM свойствами
-* 8 новых вторичных навыка (пока бланковые, но в будущих версиях будут запрограммированы)
-* 25 новых заклинаний (пока бланковые, но в будущих версиях будут запрограммированы)
-* 30 официально поддерживаемых встроенных WoG-опций:
-** 000 - Усиленная охрана жилищ на карте
-** 001 - Система опыта стрелковых башен
-** 002 - Возможность оставить войска
-** 003 - Командиры
-** 004 - Разрушение и перестройка городов
-** 005 - Герои без городов
-** 006 - Выбор командира при найме
-** 007 - Накопление существ во внешних жилищах
-** 008 - Накопление стражников во внешних жилищах
-** 009 - Создание сильванских кентавров
-** 010 - Строительство городов на карте
-** 141 - Сфинкс
-** 900 - Система опыта существ
-** 902 - Возможность оставить артефакт
-** 903 - Запрет на использование игровых кодов
-** 907 - Недели и месяцы монстров
-** 908 - Все новые недели и месяцы - монстров
-** 909 - Недели высокоуровневых монстров
-** 910 - Запрет месяца чумы
-** 911 - Половинная стоимость существ на 7-ой день
-** 912 - Растущие армии героев
-** 913 - Дополнительные монстры в жилищах 2-7 ур.
-** 914 - Удвоенное передвижение героев
-** 915 - Повторное посещение мест обучения
-** 916 - Города без фортов
-** 917 - Размещение накладных почв на карте
-** 918 - Размещение кристаллов могущества на карте
-** 919 - Растущие армии городов
-** 920 - Растущая охрана банков монстров
-** 921 - Знамя полководца у врат городов
-* 34 официально поддерживаемых ERM-опций:
-** 011 - Дворец мечтаний
-** 012 - Живой череп
-** 014 - Алтарь трансформации
-** 015 - Жилище мистических существ
-** 016 - Боевая академия
-** 017 - Фонтан Валхаллы
-** 018 - Сиротский приют
-** 019 - Хозяева жизни I
-** 020 - Расширенная неделя монстров
-** 026 - Ремесленник
-** 028 - Школа колдовства
-** 029 - Новый сундук сокровищ I
-** 030 - Новый сундук сокровищ II
-** 031 - Новый сундук сокровищ III
-** 032 - Камни вызова
-** 033 - Живые свитки
-** 038 - Кармические битвы
-** 040 - Первые деньги
-** 042 - Гарнизоны
-** 043 - Видения обелисков
-** 052 - Зеркало пути домой
-** 053 - Темница хозяина драконов
-** 076 - Святилище командира
-** 107 - Рыболовный колодец
-** 108 - Торговец-старьевщик
-** 109 - Алтарь нейрализации
-** 110 - Магические грибы
-** 134 - Недели ресурсов
-** 135 - Недели странствующих монстров
-** 136 - Ресурсы недели в мельницах
-** 200 - Монстры недели в лагерях беженцев
-** 265 - Хозяева жизни II
-** 742 - Опыт существ без способностей
-** 757 - Драконьи города
-* 1 официально поддерживаемая кампания
-** Да здравствует королева
+++++++++++++++++
+ERA PLUS 0.3.6.4
+++++++++++++++++
+
+* 95 new artifacts (total = 255)
+* 65 new creatures (total = 246)
+* 4 new towns (total = 13)
+* 5 new buildings for standard towns
+* 65 new heroes (total = 209)
+* 30 new creature dwellings (total = 130)
+* 30 new creature banks (total = 50)
+* 2 new terrain types (total = 12)
+* 4 new overlays with ERM-programmed behavior
+* 8 new secondary skills (currently blank, to be scripted in future versions)
+* 3 new spells:
+- Blizzard
+- Disintegration
+- Call of Nature's Forces
+* 30 officially supported built-in WoG options:
+- 000 - Stronger dwelling guards on the map
+- 001 - Arrow tower experience system
+- 002 - Option to leave troops
+- 003 - Commanders
+- 004 - Destroy and rebuild towns
+- 005 - Heroes without towns
+- 006 - Choose commander when hiring
+- 007 - Creature accumulation in external dwellings
+- 008 - Guard accumulation in external dwellings
+- 009 - Create Sylvan Centaurs
+- 010 - Build towns on the map
+- 141 - Sphinx
+- 900 - Creature experience system
+- 902 - Drop artifact option
+- 903 - Disable cheat codes
+- 907 - Monster weeks and months
+- 908 - All new weeks and months are monster-related
+- 909 - Weeks of high-level monsters
+- 910 - Disable month of the plague
+- 911 - Half cost of creatures on day 7
+- 912 - Growing hero armies
+- 913 - Additional creatures in dwellings level 2–7
+- 914 - Double hero movement
+- 915 - Revisit training locations
+- 916 - Towns without forts
+- 917 - Overlay terrains on the map
+- 918 - Place power crystals on the map
+- 919 - Growing town armies
+- 920 - Growing creature bank guards
+- 921 - Warlord's Banner at town gates
+* 35 officially supported ERM options:
+- 011 - Palace of Dreams
+- 012 - Living Skull
+- 014 - Altar of Transformation
+- 015 - Mystic Creature Dwelling
+- 016 - Battle Academy
+- 017 - Fountain of Valhalla
+- 018 - Orphanage
+- 019 - Lords of Life I
+- 020 - Extended Monster Week
+- 026 - Craftsman
+- 028 - School of Sorcery
+- 029 - New Treasure Chest I
+- 030 - New Treasure Chest II
+- 031 - New Treasure Chest III
+- 032 - Summoning Stones
+- 033 - Living Scrolls
+- 038 - Karmic Battles
+- 040 - First Money
+- 042 - Garrisons
+- 043 - Obelisk Visions
+- 052 - Mirror to Home
+- 053 - Dragon Master's Dungeon
+- 076 - Commander’s Sanctuary
+- 107 - Fishing Well
+- 108 - Junk Dealer
+- 109 - Altar of Neutralization
+- 110 - Magic Mushrooms
+- 134 - Resource Weeks
+- 135 - Roaming Monster Weeks
+- 136 - Weekly resources in windmills
+- 200 - Weekly monsters in Refugee Camps
+- 265 - Lords of Life II
+- 742 - Creature XP without abilities
+- 755 - Depleting Mines
+- 757 - Dragon Cities
+* 4 officially supported campaigns:
+- Long Live the Queen
+- Liberation
+- Praise to Father
+- Dungeons and Devils
