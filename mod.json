@@ -19,7 +19,7 @@
 		"file": "wog.png",
 		"index": 0
 	},
-	"mod_version": "3.64",
+	"mod_version": "3.68",
 	"priority": -1,
 	"compatibility": {
 		"incompatible": [
@@ -35,7 +35,8 @@
 		]
 	},
 	"platform": "era",
-	"info_version": "3.64",
+	"info_version": "3.68",
 	"plugins": {},
 	"category": "platform"
+
 }
